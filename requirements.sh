@@ -1,5 +1,6 @@
 pip install opencv-python
-pip install openmmlab
+pip install mmcv-full
+pip install mmpose
 pip install torchgeometry
 pip install transforms3d
 pip install pycocotools
