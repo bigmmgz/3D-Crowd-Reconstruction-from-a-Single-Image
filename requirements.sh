@@ -1,0 +1,11 @@
+pip install opencv-python
+pip install openmmlab
+pip install torchgeometry
+pip install transforms3d
+pip install pycocotools
+pip install pyrender
+pip install trimesh
+pip install human-body-prior
+pip install pyyaml==5.4.1
+pip install easydict
+pip install tqdm
