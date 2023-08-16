@@ -18,6 +18,6 @@ Install PyTorch =1.7.1 and Python = 3.7.3.
 * Run `python test.py --gpu 0`. You can change the input image with `--img_idx {img number}`.
 
 ## Evaluate
-* Run 'python test.py --gpu 0-3 --cfg ../assets/yaml/3dpw.yml --exp_dir ../output/exp_04-06_23:43 --test_epoch 10'. You can replace the `--exp_dir` with your own experiments.
+* Run 'python test.py --gpu 0-3 --cfg ../assets/yaml/3dpw.yml --exp_dir ../output/exp_08-07_23:23 --test_epoch 10'. You can replace the `--exp_dir` with your own experiments.
 
 
