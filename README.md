@@ -9,7 +9,6 @@ Install PyTorch =1.7.1 and Python = 3.7.3.
 ## Preparing 
 ### In accordance with 3DCrowdNet
 * Download the pre-trained 3DCrowdNet checkpoint from (https://drive.google.com/drive/folders/1YYQHbtxvdljqZNo8CIyFOmZ5yXuwtEhm?usp=sharing)
-* Get SMPL layers and VPoser according to [this](./assets/directory.md#pytorch-smpl-layer-and-vposer).
 * Download `J_regressor_extra.npy` from [here](https://drive.google.com/file/d/1B9e65ahe6TRGv7xE45sScREAAznw9H4t/view?usp=sharing)
 
 ## Training
