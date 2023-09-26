@@ -1,7 +1,7 @@
 ## Introduction  
 3DCrowd+ is presented as an enhanced iteration of the seminal 3DCrowdNet. This refined model adeptly modifies the baseline's coordattitude estimation network by amalgamating the attention mechanism with the model pruning algorithm.
 
-[v2.pdf](https://github.com/bigmmgz/3D-Crowd-Reconstruction-from-a-Single-Image/files/12731899/v2.pdf)
+<img width="1347" alt="截屏2023-09-26 22 09 23" src="https://github.com/bigmmgz/3D-Crowd-Reconstruction-from-a-Single-Image/assets/114939430/fab31523-7405-4d4d-b5aa-ca4f4558fbfb">
 
 
 
