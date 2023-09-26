@@ -1,6 +1,10 @@
 ## Introduction  
 3DCrowd+ is presented as an enhanced iteration of the seminal 3DCrowdNet. This refined model adeptly modifies the baseline's coordattitude estimation network by amalgamating the attention mechanism with the model pruning algorithm.
 
+[v2.pdf](https://github.com/bigmmgz/3D-Crowd-Reconstruction-from-a-Single-Image/files/12731899/v2.pdf)
+
+
+
 ## Installation
 Install Miniconda virtual environment. 
 Install PyTorch =1.7.1 and Python = 3.7.3. 
